@@ -13,7 +13,7 @@ setup_args = dict(
     license='MIT',
     long_description_content_type="text/markdown",
     keywords=['apiclient'],
-    url="https://github.com/gonzalo123/jsonencoder",
+    url="https://github.com/gonzalo123/jsonEncoder",
     packages=['jsonencoder'],
     classifiers=[
         "Programming Language :: Python :: 3",
