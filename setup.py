@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup_args = dict(
     name="jsonencoder-gonzalo123",
-    version="1.0.3",
+    version="1.1.0",
     author="Gonzalo Ayuso",
     author_email="gonzalo123@gmail.com",
     description="jsonencoder",
